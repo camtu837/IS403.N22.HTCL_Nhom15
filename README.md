@@ -9,7 +9,7 @@
 Name: Business Analysis
 SubjectID : IS403
 ClassID: IS403.N22.HTCL
-School Year: 2023-2024
+SchoolYear: 2023-2024
 Lecturers: Pgs. Ts. Nguyen Dinh Thuan - thuannd@uit.edu.vn
           Nguyen Thi Viet Huong
           Nguyen Minh Nhut
