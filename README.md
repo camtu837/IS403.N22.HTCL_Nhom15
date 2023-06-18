@@ -16,7 +16,7 @@ Lecturers: Pgs. Ts. Nguyen Dinh Thuan - thuannd@uit.edu.vn
 ```
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Thông tin nhóm...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Group 15...  
 
 | MSSV | Full Name | Gmail | Github |
 |--------------|-------|------|-------|
@@ -24,7 +24,7 @@ Lecturers: Pgs. Ts. Nguyen Dinh Thuan - thuannd@uit.edu.vn
 | 20520797 | Nguyen Thi Thu Thuy | 20520797@gm.uit.edu.vn | https://github.com/nttt0201
 | 20521847 | Nguyen Thanh Son| 20521847@gm.uit.edu.vn |
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Thông tin bài báo cáo <b></b> ...</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Final Report<b></b> ...</em>
 ```javascript
 .........
 ```
