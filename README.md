@@ -18,7 +18,7 @@ Lecturers: Pgs. Ts. Nguyen Dinh Thuan - thuannd@uit.edu.vn
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Thông tin nhóm...  
 
-| MSSV | Họ và tên | Gmail | Github |
+| MSSV | Full Name | Gmail | Github |
 |--------------|-------|------|-------|
 | 20520837 | Nguyen Cam Tu | 20520837@gm.uit.edu.vn | https://github.com/camtu837 
 | 20520797 | Nguyen Thi Thu Thuy | 20520797@gm.uit.edu.vn | https://github.com/nttt0201
